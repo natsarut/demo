@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyDemo.Server", "BlazorWebAssemblyDemo\Server\BlazorWebAssemblyDemo.Server.csproj", "{1913D5A5-A91D-41B8-98E5-194935B225D9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblyDemo.Server", "BlazorWebAssemblyDemo\Server\BlazorWebAssemblyDemo.Server.csproj", "{1913D5A5-A91D-41B8-98E5-194935B225D9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyDemo.Client", "BlazorWebAssemblyDemo\Client\BlazorWebAssemblyDemo.Client.csproj", "{E49B1246-FE80-4F1F-B661-69B8D1AC3BE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblyDemo.Client", "BlazorWebAssemblyDemo\Client\BlazorWebAssemblyDemo.Client.csproj", "{E49B1246-FE80-4F1F-B661-69B8D1AC3BE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyDemo.Shared", "BlazorWebAssemblyDemo\Shared\BlazorWebAssemblyDemo.Shared.csproj", "{E564C2ED-6214-468D-B612-2CBDA3EF1D76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblyDemo.Shared", "BlazorWebAssemblyDemo\Shared\BlazorWebAssemblyDemo.Shared.csproj", "{E564C2ED-6214-468D-B612-2CBDA3EF1D76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWebAssemblyDemoTest", "BlazorWebAssemblyDemoTest\BlazorWebAssemblyDemoTest.csproj", "{2C3E8E2D-8776-4165-89A3-A4A790D03506}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorWebAssemblyDemoTest", "BlazorWebAssemblyDemoTest\BlazorWebAssemblyDemoTest.csproj", "{2C3E8E2D-8776-4165-89A3-A4A790D03506}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
